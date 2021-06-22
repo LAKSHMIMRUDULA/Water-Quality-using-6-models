@@ -1,4 +1,6 @@
 # Water-Quality-using-6-models
+Access to safe drinking-water is essential to health, a basic human right and a component of effective policy for health protection. This is important as a health and development issue at a national, regional and local level. In some regions, it has been shown that investments in water supply and sanitation can yield a net economic benefit, since the reductions in adverse health effects and health care costs outweigh the costs of undertaking the interventions.
+
 ![image](https://user-images.githubusercontent.com/77747784/122894083-8666b380-d364-11eb-80c2-8c67ac505dc6.png)
 ![image](https://user-images.githubusercontent.com/77747784/122894154-9383a280-d364-11eb-9b78-d0a8c06452f2.png)
 ![image](https://user-images.githubusercontent.com/77747784/122894252-a8603600-d364-11eb-8aed-0e735d713d8f.png)
@@ -18,6 +20,6 @@ Applying Bagging and boosting
 ![image](https://user-images.githubusercontent.com/77747784/122895205-861ae800-d365-11eb-97b2-2e20e2a4e13e.png)
 ![image](https://user-images.githubusercontent.com/77747784/122895260-93d06d80-d365-11eb-9c22-dd9c816f892e.png)
 ![image](https://user-images.githubusercontent.com/77747784/122895392-b2366900-d365-11eb-89c6-1d1470951c64.png)
-Conclusion:The precision of class 0 is 83% and that of class 1 is 83%.It means the model predicts 83% of claa0 and 83% of class1 correctly
+Conclusion:The precision of class 0 is 83% and that of class 1 is 83%.It means the model predicts 83% of claass 0 and 83% of class1 correctly
 
 Accuracy is 83%
